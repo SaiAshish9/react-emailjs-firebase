@@ -19,4 +19,5 @@ Use an existing project
 yes -> yes
 cd functions
 npm i nodemailer dotenv
+firebase deploy
 ```
