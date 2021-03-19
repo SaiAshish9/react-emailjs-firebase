@@ -9,3 +9,12 @@
   }
 }
 ```
+
+```
+sudo npm i -g firebase-tools
+firebase login
+firebase init
+Functions
+Use an existing project
+yes -> yes
+```
