@@ -41,7 +41,7 @@ SENDER_EMAIL=
 SENDER_PASSWORD=
 ```
 
-## Manage Less Secure App's
+## Enable SMTP To Less Secure App's
 
 ```
 Gmail->Manage Your Account->Security->Less secure apps
