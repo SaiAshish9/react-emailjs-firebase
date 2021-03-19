@@ -21,3 +21,16 @@ cd functions
 npm i nodemailer dotenv
 firebase deploy
 ```
+
+## firebase.json
+
+```
+{
+  "functions": {
+    "predeploy": [
+    ]
+  }
+}
+
+
+```
