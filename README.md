@@ -34,3 +34,10 @@ firebase deploy
 
 
 ```
+## .env file
+
+```
+SENDER_EMAIL=
+SENDER_PASSWORD=
+```
+
